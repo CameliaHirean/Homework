@@ -1,0 +1,4 @@
+SYNCING: On the GitHub web interface, edit 'README.md' 
+   directly to add a "Contributors" section. Back in your 
+   terminal, use 'git pull' to fetch and integrate those 
+   changes into your local 'main' branch.
